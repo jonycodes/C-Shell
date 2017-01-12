@@ -1,5 +1,2 @@
-# SoftwareTestingG4
-Software Testing Final Project
-Testing: 
-
-http://fuccillokiacapecoral.com/
+# C Shell
+A simple shell in C, using forks and pipes for communcation between child/parent process.  
