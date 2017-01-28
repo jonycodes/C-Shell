@@ -4,7 +4,6 @@
 ## Compiling
 * Run:
   ``` 
-  
   $ make
   $ ./shell
   ```
