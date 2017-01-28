@@ -3,7 +3,8 @@
 
 ## Compiling
 * Run:
-  ```
-  * $ make
-  * $ ./shell
+  ``` 
+  
+  $ make
+  $ ./shell
   ```
