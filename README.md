@@ -8,3 +8,4 @@
   $ make
   $ ./shell
   ```
+* Shell command prompt will open in the same terminal window
